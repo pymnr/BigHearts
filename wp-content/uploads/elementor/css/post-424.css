@@ -1,0 +1,27 @@
+.elementor-424 .elementor-element.elementor-element-1313779 .blog-post_title a {
+    color: #232323;
+}
+
+.elementor-424 .elementor-element.elementor-element-1313779 .blog-post_title a:hover {
+    color: #ffac00;
+}
+
+.elementor-424 .elementor-element.elementor-element-1313779 .meta-data .post_date {
+    color: #f74f22;
+}
+
+.elementor-424 .elementor-element.elementor-element-1313779 .load_more_wrapper {
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+}
+
+.elementor-424 .elementor-element.elementor-element-1313779 .load_more_item {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #ffac00;
+    border-radius: 28px 28px 28px 28px;
+}
+
+.elementor-424 .elementor-element.elementor-element-6a9babb .elementor-spacer-inner {
+    --spacer-size: 20px;
+}
